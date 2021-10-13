@@ -4,9 +4,9 @@
         "version": "v3.15.2-ls30"
     },
     "build_from": {
-        "armhf": "linuxserver/nzbhydra2:arm32v7-v3.15.2-ls30",
-        "aarch64": "linuxserver/nzbhydra2:arm64v8-v3.15.2-ls30",
-        "amd64": "linuxserver/nzbhydra2:amd64-v3.15.2-ls30"
+        "armhf": "linuxserver/nzbhydra2",
+        "aarch64": "linuxserver/nzbhydra2",
+        "amd64": "linuxserver/nzbhydra2"
     },
     "squash": false,
     "args": {}
