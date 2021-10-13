@@ -41,5 +41,5 @@
     "**/backup/*",
     "**/logs/*"
   ],
-  "image": "petersendev/hassio-hydra2"
+  "image": "linuxserver/docker-nzbhydra2"
 }
