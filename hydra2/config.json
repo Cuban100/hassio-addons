@@ -41,5 +41,5 @@
     "**/backup/*",
     "**/logs/*"
   ],
-  "image": "petersendev/hassio-hydra2-{arch}"
+  "image": "petersendev/hassio-hydra2"
 }
